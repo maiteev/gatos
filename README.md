@@ -23,4 +23,4 @@ Proyecto de reconocimiento de gestos, utilizando Python y MediaPipe. Realizado t
 | 6 | Corazon | Mano plana cruzada en el centro del pecho con el pulgar hacia arriba y el otro brazo relajado | <img width="440" height="605" alt="corazon" src="https://github.com/user-attachments/assets/beaa0249-8bd6-4fba-b14b-edf8cd1fa31f" /> |
 
 - [Carpeta de imágenes](new-memes)
-- [video](video-memes.mp4)
+-  [video](video-memes%20(1)%20(1).mp4)
