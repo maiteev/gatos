@@ -2,7 +2,7 @@
 
 ## tarea-02
 
-- **Anto Acevedo**
+- **Anto Acevedo** 
 - **Maite Villarroel**
 
 - Asignatura: Dispositivos Periféricos y Plataformas para la Interacción Digital **DIS9087**
